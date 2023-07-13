@@ -77,12 +77,24 @@ bash
 
 ##  Screenshot
 
+- Login and SignUp Functionality
+
 ![Screenshot (83)](https://github.com/Sandarbha-K/chat-sync/assets/101709644/80df8bc8-d55c-480f-a6e5-d85c1b331992)
+
+
+- Search Different Users
 
 ![Screenshot (85)](https://github.com/Sandarbha-K/chat-sync/assets/101709644/8899f3ad-c572-42e9-ac3c-46feaf47e025)
 
+
+- One to One Private Conversation
+  
 ![Screenshot (86)](https://github.com/Sandarbha-K/chat-sync/assets/101709644/798060cd-5d1b-4ac6-8a50-69b383261211)
 
+
+
+- Edit Chat , Delete Chat ,Block ,Unblock Feature
+  
 ![Screenshot (87)](https://github.com/Sandarbha-K/chat-sync/assets/101709644/0c92bb2f-f14e-4bcf-8d9b-6d11d517ba79)
 
 ## Environment Variables
